@@ -1,0 +1,8 @@
+readability/Indexes.java
+ readability.Indexes
+readability/Console.java
+ readability.Console
+readability/Main.java
+ readability.Main
+readability/ParserText.java
+ readability.ParserText
