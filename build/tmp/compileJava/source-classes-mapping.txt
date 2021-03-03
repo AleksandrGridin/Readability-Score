@@ -1,8 +1,15 @@
-readability/Indexes.java
- readability.Indexes
 readability/Console.java
  readability.Console
-readability/Main.java
- readability.Main
+readability/Score.java
+ readability.Score
+readability/Indexes.java
+ readability.Indexes
 readability/ParserText.java
  readability.ParserText
+readability/CounterSyllables.java
+ readability.CounterSyllables
+readability/Main.java
+ readability.Main
+readability/Statistics.java
+ readability.Statistics
+ readability.Statistics$1
